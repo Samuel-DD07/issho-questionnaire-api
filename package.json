@@ -1,0 +1,22 @@
+{
+  "name": "issho-questionnaire-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuel-DD07/issho-questionnaire-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samuel-DD07/issho-questionnaire-api/issues"
+  },
+  "homepage": "https://github.com/Samuel-DD07/issho-questionnaire-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
